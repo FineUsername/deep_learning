@@ -2,4 +2,4 @@
 
 Тема: "Классификация морских животных"
 
-
+Датасет: https://www.kaggle.com/datasets/vencerlanz09/sea-animals-image-dataste[Sea Animals Image Dataset]
